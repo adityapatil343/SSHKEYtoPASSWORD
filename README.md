@@ -174,4 +174,4 @@ If this is for production or internet-facing servers go with ssh keys.
 
 ---
 
-⭐ **If this helped you, don’t forget to star this repo!**
+⭐ **If this helped you, don’t forget to star this repo!** ⭐
