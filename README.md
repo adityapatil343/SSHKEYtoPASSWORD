@@ -169,8 +169,8 @@ sudo passwd
 
 ## ⚠️ Security Warning
 Enabling `PermitRootLogin yes` and `PasswordAuthentication yes` makes your server more vulnerable to brute-force attacks. 
-So,DYOR.
-If this is for production or internet-facing servers go with ssh keys.
+So,DYOR
+If this is for production or internet facing servers go with ssh keys.
 
 ---
 
